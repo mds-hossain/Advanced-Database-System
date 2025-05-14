@@ -1,3 +1,12 @@
+
+# DataCore
+
+**DataCore** is an advanced database system project that provides an in-depth exploration of complex database systems and their applications. This repository contains various implementations, optimizations, and features for advanced database management, querying, and performance analysis. The project aims to provide robust solutions to modern database problems using cutting-edge techniques.
+
+With an emphasis on scalability, performance, and reliability, this project is ideal for anyone looking to explore advanced concepts in database design, indexing, query optimization, and more.
+
+---
+
 .. -*-restructuredtext-*-
 
 cryptoCMD: cryptoCurrency Market Data
